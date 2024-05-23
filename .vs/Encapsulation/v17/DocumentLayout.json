@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C029F924-BD47-4153-85E4-B9C94D667D44}|Encapsulation\\Encapsulation.csproj|c:\\users\\user\\desktop\\encapsulation\\encapsulation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029F924-BD47-4153-85E4-B9C94D667D44}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029F924-BD47-4153-85E4-B9C94D667D44}|Encapsulation\\Encapsulation.csproj|c:\\users\\user\\desktop\\encapsulation\\encapsulation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029F924-BD47-4153-85E4-B9C94D667D44}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029F924-BD47-4153-85E4-B9C94D667D44}|Encapsulation\\Encapsulation.csproj|c:\\users\\user\\desktop\\encapsulation\\encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029F924-BD47-4153-85E4-B9C94D667D44}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029F924-BD47-4153-85E4-B9C94D667D44}|Encapsulation\\Encapsulation.csproj|c:\\users\\user\\desktop\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029F924-BD47-4153-85E4-B9C94D667D44}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Encapsulation\\Encapsulation\\Library.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Library.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Encapsulation\\Encapsulation\\Library.cs",
+              "RelativeToolTip": "Encapsulation\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:03:44.974Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Encapsulation\\Encapsulation\\Book.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Book.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Encapsulation\\Encapsulation\\Book.cs",
+              "RelativeToolTip": "Encapsulation\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:03:16.036Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Encapsulation\\Encapsulation\\Product.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Encapsulation\\Encapsulation\\Product.cs",
+              "RelativeToolTip": "Encapsulation\\Product.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:03:03.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:01:23.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
